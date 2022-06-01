@@ -33,7 +33,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <!-- ***** Preloader Start ***** -->
     <div id="preloader">
         <div class="jumper">
-            <div></div>
+            <div>a</div>
             <div></div>
             <div></div>
         </div>
